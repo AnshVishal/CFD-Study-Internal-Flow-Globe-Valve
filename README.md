@@ -3,7 +3,7 @@
 <h2 align='center'>1. PROJECT OVERVIEW</h2>
 <h3 align='left'>Objective</h3>
 <ul>
-  <li></li>
+  <li>Objective of this project is to perform Steady state, CFD Simulations for the Globe Valve, study the flow phenomenon, compare and discuss the discharge coefficient and force in y-direction over the valve for different valve openings (1mm, 3mm, 5mm, 11mm, 21mm) for different Pressure inlet conditions (4 bar, 5 bar, 8 bar) keeping pressure outlet at 3 bar constant (for all cases). </li>
 </ul>
 
 <h3 align='left'>Software Used</h3>
