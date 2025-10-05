@@ -31,7 +31,11 @@
         
 <h2 align='center'>3. METHODOLOGY</h2>
 <h3 align='left'>Geometry & Domain</h3>
-
+<p align="center">
+<img width="341" height="260" alt="Globe Valve Geometry" src="https://github.com/user-attachments/assets/580746ef-e960-4e24-8293-f65405559930" />
+<img width="650" height="290" alt="Globe Valve Domain" src="https://github.com/user-attachments/assets/2b542389-8145-49f3-b2b9-da8e3d5ec1d9" /><br/>
+<b>Figure 1: Globe Valve Geometry and Domain</b>
+</p>
 <h3 align='left'>Mesh Settings</h3>
 
 <h3 align='left'>Solver & Models</h3>
