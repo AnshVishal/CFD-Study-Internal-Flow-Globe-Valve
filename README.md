@@ -32,17 +32,28 @@
 <h2 align='center'>3. METHODOLOGY</h2>
 <h3 align='left'>Geometry & Domain</h3>
 <p align="center">
-<img width="341" height="260" alt="Globe Valve Geometry" src="https://github.com/user-attachments/assets/580746ef-e960-4e24-8293-f65405559930" />
-<img width="650" height="290" alt="Globe Valve Domain" src="https://github.com/user-attachments/assets/2b542389-8145-49f3-b2b9-da8e3d5ec1d9" /><br/>
+<img width="776" height="199" alt="image" src="https://github.com/user-attachments/assets/b8d99a99-d004-4786-9fb6-49ddbe87d82a" /><br/>
 <b>Figure 1: Globe Valve Geometry and Domain</b>
 </p>
 <h3 align='left'>Mesh Settings</h3>
-
+<p align="center">
+  <img width="728" height="141" alt="image" src="https://github.com/user-attachments/assets/0ab22edf-9bb5-4831-8887-e4c030fdce5c" /><br/>
+  <b>Figure 2: Meshing at different valve openings (1mm, 3mm, 5mm, 11mm, 21mm)</b>
+</p>
 <h3 align='left'>Solver & Models</h3>
 
 <h3 align='left'>Solution & Setup</h3>
 
 <h2 align='center'>4. RESULTS & DISCUSSION</h2>
+<p align="center">
+<img width="768" height="467" alt="image" src="https://github.com/user-attachments/assets/74c170d3-c8f3-4ce3-bf39-5157df7ebaca" /><br/>
+<b>Figure 3: Velocity Contours for Preasure Difference of 1bar, 2bar, 5bar</b>
+  <img width="807" height="441" alt="image" src="https://github.com/user-attachments/assets/0d461341-18d2-4520-b309-59df52d8cce3" /><br/>
+<b>Figure 4: Discharge Rate vs Lift Percent Graph</b>
+  <img width="788" height="445" alt="image" src="https://github.com/user-attachments/assets/316c6568-0263-4ec6-839b-569558c67f22" /><br/>
+<b>Figure 5: CFD Mass Flow Rate vs Lift Percent Graph</b>
+</p>
+
 
 <h2 align='center'>5. CONCLUSION</h2>
 
