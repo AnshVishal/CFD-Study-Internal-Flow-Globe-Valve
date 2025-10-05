@@ -17,15 +17,15 @@
   Globe Valves are widely used in different applications to regulate fluid flow in piping system. 
   
   <i>Yang et al. </i>showed that when fluid flows through diminshed circulation area the main pressure drop was observed along the valve throat [1]. <i>Nguyen et al. </i>investigated pressure distribution and flow coefficients of globe valve with series of experiemnts condcuted in flow test loop. The setup consisted of reservoir tank, pump, flow meter, and a test section with three-inch nominal diameter pipe line and total length of 18m. Performed experiments with various pump seeds and full range of valve openings. Results showed flow coefficient depends on valve geometry, valve opening and Reynolds Number. Also, observed that in signle phase flow, differences in pressure at different measurement locations within close range of   10 nominal diameter from valve are inconsiderable[2].
-  
+</p>
+<p align="justify">
   <b>[Motivation & Importance]</b><br/>
   Globe Valves are used in ships, and offshore operation to regulate fluid flow in pipe. Fluid in such applications are usually allowed to flow under high pressure, maintenance, operations are critical. Any failure is dangerous thus it is essential to properly Design the system through rigorous testing. 
   
   Computational Fluid Dynamics plays a role in reducing efforts and cost of manufacturing prototypes and testing them again. Designs are evaluated carefully, and numerical investigations are done to understand the flow phenomenon, study  the essential parameters (in this case: Flow discharge rate and pressure drop around valve), study the interaction with the surface of geometry and optimize the design to generate the required outcome. This ensures saving time and cost. It is important to highlight that prototypes are created and tested after computations, for stage products to be used in finalized for actual operations, after the design optimization through Computational Aerodynamic & Structures Study. 
-  
-  <b>[Project Work]</b><br/>
+  </p>
+<p align="justify">  <b>[Project Work]</b><br/>
   It is intended thorugh this study to perform Steady state, CFD Simulations for the Globe Valve, study the flow phenomenon, compare and discuss the discharge coefficient and force in y-direction over the valve for different valve openings (1mm, 3mm, 5mm, 11mm, 21mm) for different Pressure inlet conditions (4 bar, 5 bar, 8 bar) keeping pressure outlet at 3 bar constant (for all cases). 
-
 </p>
 
         
@@ -40,9 +40,9 @@
   <img width="728" height="141" alt="image" src="https://github.com/user-attachments/assets/0ab22edf-9bb5-4831-8887-e4c030fdce5c" /><br/>
   <b>Figure 2: Meshing at different valve openings (1mm, 3mm, 5mm, 11mm, 21mm)</b>
 </p>
-<h3 align='left'>Solver & Models</h3>
 
-<h3 align='left'>Solution & Setup</h3>
+<h3 align='left'>Solver Details</h3>
+
 
 <h2 align='center'>4. RESULTS & DISCUSSION</h2>
 <p align="center">
