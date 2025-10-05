@@ -58,10 +58,10 @@
 <h2 align='center'>4. RESULTS & DISCUSSION</h2>
 <p align="center">
 <img width="768" height="467" alt="image" src="https://github.com/user-attachments/assets/74c170d3-c8f3-4ce3-bf39-5157df7ebaca" /><br/>
-<b>Figure 3: Velocity Contours for Preasure Difference of 1bar, 2bar, 5bar</b>
-  <img width="807" height="441" alt="image" src="https://github.com/user-attachments/assets/0d461341-18d2-4520-b309-59df52d8cce3" /><br/>
+<b>Figure 3: Velocity Contours for Preasure Difference of 1bar, 2bar, 5bar</b><br/>
+  <img width="400" height="221" alt="image" src="https://github.com/user-attachments/assets/0d461341-18d2-4520-b309-59df52d8cce3" />
+    <img width="400" height="221" alt="image" src="https://github.com/user-attachments/assets/316c6568-0263-4ec6-839b-569558c67f22" /><br/>
 <b>Figure 4: Discharge Rate vs Lift Percent Graph</b>
-  <img width="788" height="445" alt="image" src="https://github.com/user-attachments/assets/316c6568-0263-4ec6-839b-569558c67f22" /><br/>
 <b>Figure 5: CFD Mass Flow Rate vs Lift Percent Graph</b>
 </p>
 
