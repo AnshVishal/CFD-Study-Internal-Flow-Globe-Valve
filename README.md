@@ -30,6 +30,17 @@
 
         
 <h2 align='center'>3. METHODOLOGY</h2>
+
+<table align="center">
+<thead> <tr> <th>Methodology</th> <th>Details</th> </tr> </thead>
+<tbody> <tr> <th>Geometry</th>
+<th><img width="776" height="199" alt="image" src="https://github.com/user-attachments/assets/b8d99a99-d004-4786-9fb6-49ddbe87d82a" /><br/>
+<b>Figure 1: Globe Valve Geometry and Domain</b></th>
+</tr>
+</tbody>
+</table>
+
+
 <h3 align='left'>Geometry & Domain</h3>
 <p align="center">
 <img width="776" height="199" alt="image" src="https://github.com/user-attachments/assets/b8d99a99-d004-4786-9fb6-49ddbe87d82a" /><br/>
