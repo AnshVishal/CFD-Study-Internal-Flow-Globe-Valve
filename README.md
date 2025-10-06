@@ -54,25 +54,20 @@
       </p></pre>
     </th></tr>
     
-  <tr><th>Results: Pressure Contours</th>
-    <th><img width="362" height="506" alt="image" src="https://github.com/user-attachments/assets/ded4e104-739b-41f9-84bb-ce66ed5022f5" />
-  <img width="325" height="506" alt="image" src="https://github.com/user-attachments/assets/26eff6d6-75f1-4d2c-90b0-f93b13fc5600" /><br/>
-    Figure 3: Pressure Contours at Pressure Difference 1bar, 2bar, 5bar for different valve openings</tr>
-      
-  <tr><th>Results: Velocity Contours</th>
-    <th><img width="362" height="484" alt="image" src="https://github.com/user-attachments/assets/d27820ca-17f8-4fc6-a68f-ca6dd85e8765" /><img width="303" height="506" alt="image" src="https://github.com/user-attachments/assets/de724afb-9a96-4f8e-bae1-41fb08d1fb8c" /><br/>
-Figure 4: Velocity Contours at Pressure Difference 1bar, 2bar, 5bar for different valve openings</th>
+  <tr><th>Results: Pressure & Velocity Contours</th>
+    <th><img width="350" height="1077" alt="Screenshot 2025-10-06 225005" src="https://github.com/user-attachments/assets/9b7f86ea-f5ef-4ed4-8268-66ee1aef6637" /><img width="350" height="1079" alt="Screenshot 2025-10-06 225236" src="https://github.com/user-attachments/assets/a3fa04e4-f37f-414b-8149-86373dace995" /><br/>
+    Figure 3: Pressure & Velocity Contours at Pressure Difference 1bar, 2bar, 5bar for different valve openings</tr>
 
   <tr><th>Results: Residuals & Report Definition</th>
     <th><img width="225" height="362" alt="image" src="https://github.com/user-attachments/assets/b2fda2c7-0770-486a-9ae8-7a34c0379351" /><img width="221" height="366" alt="image" src="https://github.com/user-attachments/assets/891551a1-c702-44c9-8324-7164e3422780" /><img width="229" height="357" alt="image" src="https://github.com/user-attachments/assets/94327bf1-000e-40d8-963e-29c4815ffb50" /><br/>
-Figure 5: Residuals, Mass Flow Rate at outlet and Force on valve in y-direction
+Figure 4: Residuals, Mass Flow Rate at outlet and Force on valve in y-direction
 <pre><p align="left">Note:
 It is only for one simulation case, there were altogether 15 cases</p></pre>
     </th></tr>
 
   <tr><th>Results: Discharge Rate & Mass Flow Rate</th>
     <th><img width="350" height="723" alt="image" src="https://github.com/user-attachments/assets/ff8cbd49-3fdf-4599-94be-59d69c523fe4" /><img width="350" height="723" alt="image" src="https://github.com/user-attachments/assets/d70ac64e-85a6-4c04-ab75-ea757e5b662f" /><br/>
-Figure 6: Discharge Rate (C<sub>d</sub>) & Mass Flow Rate vs valve opening in Percentage
+Figure 5: Discharge Rate (C<sub>d</sub>) & Mass Flow Rate vs valve opening in Percentage
 </tbody>
 </table>
 
