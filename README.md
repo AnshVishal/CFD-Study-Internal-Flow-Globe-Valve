@@ -1,12 +1,13 @@
 <h1 align='center'>CFD STUDY OF GLOBE VALVE (INTERNAL FLOW)</h1>
-
+<p align="center"><i>Disclaimer: This project is a part of Flowthermolab CFD mentorship Program.</i></p>
 <h2 align='center'>OVERVIEW</h2>
-<p align='left'>1. Problem Statement</p>
+<p align='left'><b>1. Problem Statement</b></p>
 <ul>
   <li> Pressure Based Solver, Steady state CFD Simulation</li> 
   <li>Study the flow phenomenon, discharge coefficient and force on valve</li> 
   <li>Study must be conducted over different valve openings & different Inlet conditions</li>
 </ul>
+<p align="left"><b>Note: </b> <i>It is to highlight that this study has been performed to understand the internal fluid flow dynamics through the globe valve geometry and the studied parameters such as discharge rate and mass flow rate so as to understand what are the design changes from perspective of a CFD Engineer (Refer to Discussion Section for more details.)</i></p>
 <p align='justify'><b>2. Software Used: </b><br/> Ansys Space-Claim  &nbsp | &nbsp Ansys Fluent Mesher &nbsp | &nbsp Ansys Fluent &nbsp | &nbsp Ansys Post Processor &nbsp | &nbsp MATLAB (for Scientific Plots)</p>
 <p align='justify'><b>3. Skills Demonstrated: </b><br/>Dynamic Meshing &nbsp | &nbsp Transient &nbsp | &nbsp Turbulence (k-omega SST) and 6DOF Modeling &nbsp | &nbsp Data Post-Processing</p>
 
@@ -76,22 +77,10 @@ Figure 6: Discharge Rate (C<sub>d</sub>) & Mass Flow Rate vs valve opening in Pe
 </table>
 
 
-<h3 align='left'>Solver Details</h3>
 
-
-<h2 align='center'>4. RESULTS & DISCUSSION</h2>
+<h2 align='center'>DISCUSSION</h2>
 
 <p>It is intended thorugh this study to perform Steady state, CFD Simulations for the Globe Valve, study the flow phenomenon, compare and discuss the discharge coefficient and force in y-direction over the valve for different valve openings (1mm, 3mm, 5mm, 11mm, 21mm) for different Pressure inlet conditions (4 bar, 5 bar, 8 bar) keeping pressure outlet at 3 bar constant (for all cases). 
-</p>
-
-
-<p align="center">
-<img width="768" height="467" alt="image" src="https://github.com/user-attachments/assets/74c170d3-c8f3-4ce3-bf39-5157df7ebaca" /><br/>
-<b>Figure 3: Velocity Contours for Preasure Difference of 1bar, 2bar, 5bar</b><br/>
-  <img width="400" height="221" alt="image" src="https://github.com/user-attachments/assets/0d461341-18d2-4520-b309-59df52d8cce3" />
-    <img width="400" height="221" alt="image" src="https://github.com/user-attachments/assets/316c6568-0263-4ec6-839b-569558c67f22" /><br/>
-<b>Figure 4: Discharge Rate vs Lift Percent Graph</b>
-<b>Figure 5: CFD Mass Flow Rate vs Lift Percent Graph</b>
 </p>
 
 
