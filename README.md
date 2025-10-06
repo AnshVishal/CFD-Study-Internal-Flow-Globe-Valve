@@ -84,6 +84,6 @@ Figure 6: Discharge Rate (C<sub>d</sub>) & Mass Flow Rate vs valve opening in Pe
 </p>
 
 
-<h2 align='center'>5. CONCLUSION</h2>
+<h2 align='center'>CONCLUSION</h2>
 
 <h2 align='center'>CONTACT DETAILS</h2>
