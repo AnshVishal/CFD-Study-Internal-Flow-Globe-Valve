@@ -73,12 +73,9 @@ Figure 5: Discharge Rate (C<sub>d</sub>) & Mass Flow Rate vs valve opening in Pe
 
 
 
-<h2 align='center'>DISCUSSION</h2>
+<h2 align='center'>DISCUSSION & FUTURE SCOPE</h2>
 
 <p>It is intended thorugh this study to perform Steady state, CFD Simulations for the Globe Valve, study the flow phenomenon, compare and discuss the discharge coefficient and force in y-direction over the valve for different valve openings (1mm, 3mm, 5mm, 11mm, 21mm) for different Pressure inlet conditions (4 bar, 5 bar, 8 bar) keeping pressure outlet at 3 bar constant (for all cases). 
 </p>
-
-
-<h2 align='center'>CONCLUSION</h2>
 
 <h2 align='center'>CONTACT DETAILS</h2>
