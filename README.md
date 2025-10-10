@@ -1,7 +1,7 @@
 <h1 align='center'>CFD STUDY OF GLOBE VALVE (INTERNAL FLOW)</h1>
 <p align="center"><i>Disclaimer: This project is a part of Minor Project submitted at Flowthermolab.</i></p>
 <h2 align='center'>OVERVIEW</h2>
-<p align='left'><b>1. Problem Statement</b></p>
+      <p align='left'><b>1. Problem Statement</b></p>
 <ul>
   <li> Pressure Based Solver, Steady state CFD Simulation</li> 
   <li>Study the flow phenomenon, discharge coefficient and force on valve</li> 
@@ -70,7 +70,7 @@ It is only for one simulation case, there were altogether 15 cases</p></pre>
 Figure 5: Discharge Rate (C<sub>d</sub>) & Mass Flow Rate vs valve opening in Percentage
 </tbody>
 </table>
-
+</p>
 
 
 <h2 align='center'>DISCUSSION & FUTURE SCOPE</h2>
