@@ -8,7 +8,7 @@
   <li>Study must be conducted over different valve openings & different Inlet conditions</li>
 </ul>
 <p align="justify"><b>Note: </b> <i>It is to highlight that this study has been performed to understand the internal fluid flow dynamics through the globe valve geometry and the studied parameters such as discharge rate and mass flow rate so as to understand what are the design changes from perspective of a CFD Engineer (Refer to Discussion Section for more details.)</i></p>
-<p align='justify'><b>2. Software Used: </b><br/> Ansys Space-Claim  &nbsp | &nbsp Ansys Fluent Mesher &nbsp | &nbsp Ansys Fluent &nbsp | &nbsp Ansys Post Processor &nbsp | &nbsp MATLAB (for Scientific Plots)</p>
+<p align='justi      fy'><b>2. Software Used: </b><br/> Ansys Space-Claim  &nbsp | &nbsp Ansys Fluent Mesher &nbsp | &nbsp Ansys Fluent &nbsp | &nbsp Ansys Post Processor &nbsp | &nbsp MATLAB (for Scientific Plots)</p>
 <p align='justify'><b>3. Skills Demonstrated: </b><br/>Dynamic Meshing &nbsp | &nbsp Transient &nbsp | &nbsp Turbulence (k-omega SST) and 6DOF Modeling &nbsp | &nbsp Data Post-Processing</p>
 
 
@@ -23,13 +23,13 @@
 <h2 align="center">METHODOLOGY</h2>  
 <table align="center">
 <tbody> 
-  <tr> <th><h3 align='left'>1. Geometry & Domain: </h3>
+  <tr> <th valign='top'><h3 align='left'>1. Geometry & Domain: </h3>
   <ul align='justify'><li>The inlet & outlet were extended to prevent errors during solving like backflow problem.</li></th>
   <th><img width="250" height="199" alt="image" src="https://github.com/user-attachments/assets/b8d99a99-d004-4786-9fb6-49ddbe87d82a" /><br/>
     <b>Figure 1: Globe Valve Geometry and Domain</b>    
   </th></tr>
 
-<tr><th><h3 align='left'>2. Meshing</h3>
+<tr><th valign='top'><h3 align='left'>2. Meshing</h3>
       <ul align='justify'><li>Mesh was generated focusing on area of study that is: <ol align='justify'><li>around the valve and</li><li>valve opening.</li></ol></li>
             <li>For Boundary Layer Mesh, first layer height was calculated at Y<sup>+</sup> < 5. First Layer Height is 8 X 10<sup>-6</sup></li>
                   <li>Hexcore Volume Mesh was generated with 1mm as max cell length and 4mm  as min cell length</li>
@@ -38,7 +38,7 @@
             <b>Figure 2: Meshing at different valve openings (1mm, 3mm, 5mm, 11mm, 21mm)</b>
       </th></tr>
 
-<tr><th><h3 align='left'>3. Solver Details</h3>
+<tr><th valign='top'><h3 align='left'>3. Solver Details</h3>
       <table><tbody>
             <tr><th>1. Time: </th><th>Steady</th></tr>
             <tr><th>2. Viscous Model: </th><th>k-omega SST</th></tr>
@@ -53,14 +53,14 @@
 </tr>
 
 <tr>
-      <th><h3 align='left' valign='bottom'>4.1. Results: Residuals & Report Definition</h3> 
+      <th th valign='top'><h3 align='left' valign='bottom'>4.1. Results: Residuals & Report Definition</h3> 
             <ul align='justify'><li>It is only for one simulation case, there were altogether 15 cases</li></ul></th>
       <th><img width="250" height="362" alt="image" src="https://github.com/user-attachments/assets/b2fda2c7-0770-486a-9ae8-7a34c0379351" /><img width="250" height="366" alt="image" src="https://github.com/user-attachments/assets/891551a1-c702-44c9-8324-7164e3422780" /><img width="250" height="357" alt="image" src="https://github.com/user-attachments/assets/94327bf1-000e-40d8-963e-29c4815ffb50" /><br/>Figure 3: Residuals, Mass Flow Rate at outlet and Force on valve in y-direction
       </th>
 </tr>
 
 <tr>
-      <th><h3 align='left'>4.2. Results: Pressure & Velocity Contours</h3> 
+      <th th valign='top'><h3 align='left'>4.2. Results: Pressure & Velocity Contours</h3> 
             <ul align='justify'><li>The contours shows the flow for different valve openings and pressure differences for globe valve.</li>
                   <li>x-axis has the pressure difference values, 1e<sup>5</sup>Pa, 2e<sup>5</sup>Pa and 5e<sup>5</sup>Pa </li>
                   <li>y-axis shows the valve opening or lift values 1mm, 3mm, 5mm, 11mm, 21mm</li></ul></th>
@@ -70,7 +70,7 @@
 </tr>
 
 <tr>
-      <th><h3 align='left'>4.3. Results: Discharge Rate & Mass Flow Rate</h3></th>
+      <th th valign='top'><h3 align='left'>4.3. Results: Discharge Rate & Mass Flow Rate</h3></th>
       <th><img width="350" height="723" alt="image" src="https://github.com/user-attachments/assets/ff8cbd49-3fdf-4599-94be-59d69c523fe4" /><img width="350" height="723" alt="image" src="https://github.com/user-attachments/assets/d70ac64e-85a6-4c04-ab75-ea757e5b662f" /><br/>
 Figure 5: Discharge Rate (C<sub>d</sub>) & Mass Flow Rate vs valve opening in Percentage
       </th>
