@@ -1,5 +1,5 @@
 <h1 align='center'>CFD STUDY OF GLOBE VALVE (INTERNAL FLOW)</h1>
-<p align="center"><i>Disclaimer: This project is a part of Minor Project submitted at Flowthermolab.</i></p>
+<p align="center"><i>Note: This project is a part of Minor Project submitted at Flowthermolab.</i></p>
 <h2 align='center'>OVERVIEW</h2>
       <p align='left'><b>1. Problem Statement</b></p>
 <ul>
