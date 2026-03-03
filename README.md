@@ -112,5 +112,7 @@ CFD-Study-Globe-Valve/
 </pre>
 
 <p><b>Author:</b></br> 
-      Ansh Vishal, </br>Aerospace Engineer</br> anshvishal215@gmail.com</br></p>
+      Ansh Vishal, </br>Aerospace Engineer</br>
+      <a href="anshvishal215@gmail.com">anshvishal215@gmail.com</a></br>
+      <a href="https://www.linkedin.com/in/ansh-vishal/">LinkedIn</a></p>
 
